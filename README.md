@@ -8,9 +8,8 @@
 * Response Caching
 * Output Cachinng
 
-<div style="width:60%; display:flex; margin:auto;padding:auto;">
-  ![image](https://github.com/yigittanyel/.NetCore-Caching/assets/61347219/b2cadbdb-0753-4077-af16-cf0f9806a166)
-</div>
+ ![image](https://github.com/yigittanyel/.NetCore-Caching/assets/61347219/b2cadbdb-0753-4077-af16-cf0f9806a166)
+
 
 ### In Memory Caching
 - In-memory cache, bir uygulamanın çalışma süresi boyunca geçici verileri hızlı bir şekilde saklamak için kullanılan bir mekanizmadır. Bu tür bir önbellek, verileri bellekte tutarak, tekrar tekrar erişilmesi gereken verilere hızlı erişim sağlar.
@@ -21,9 +20,8 @@
 - Distributed Caching, bir uygulamanın farklı sunucular veya servisler arasında paylaşılan bir önbellek kullanarak verileri depolaması ve paylaşmasına olanak tanır. Bu, uygulama ölçeklenebilirliğini artırarak performansı iyileştirir.
 - .NET'te bu amaca yönelik olarak yaygın olarak kullanılan araçlardan biri Redis adlı açık kaynaklı bir veri yapısıdır. Redis, hafızada veri depolamanın yanı sıra bu verileri disk üzerinde de saklama yeteneğine sahip bir veri yapısıdır. Bu, sıkça erişilen verilerin hızlı bir şekilde paylaşılmasını sağlar.
 
-<div style="width:60%; display:flex; margin:auto;padding:auto;">
-  ![image](https://github.com/yigittanyel/.NetCore-Caching/assets/61347219/5da0b7e4-093c-4def-ba0a-1be4da17672e)
-</div>
+![image](https://github.com/yigittanyel/.NetCore-Caching/assets/61347219/1af7ab30-d931-4b16-a970-8b08ea6043bb)
+
 
 ### Response Caching
 
